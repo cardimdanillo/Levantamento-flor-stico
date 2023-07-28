@@ -10,7 +10,7 @@ A Gruta Volks Club se desenvolve em rochas siliclásticas do Grupo Paranoá que 
 O Grupo Paranoá possui subdivisões baseadas em um conjunto de camadas sedimentares. A Gruta Volks Club está inserida na camada denominada Formação Córrego do Sansão (informalmente também chamado de R4) que possui espessura entre 100 e 150 m (STUMPF & RIBEIRO, 2019). Esta formação é distinta pela presença de fáceis metarritimito argiloso (CAMPOS, 2004). Há uma preponderância da fração silte-argila, contudo também ocorrem estratos delgados de quartzitos rosados a avermelhados (STUMPF & RIBEIRO, 2019).
 A Gruta Volks Club é classificada como gruta seca, todavia há um aumento no volume de água que corre no interior da caverna na estação chuvosa. Volume este que contribui na formação do córrego Taboca (COELHO, 2004). O local possui duas entradas separadas por uma distância horizontal de 84 m e um desnível de 11 m (STUMPF & RIBEIRO, 2019). A principal, que possui 6 m de comprimento e 3,5 m de altura, é onde encontra-se o sumidouro, e a segunda entrada, que possui 11 m de comprimento e 1,5 m de altura, é a ressurgência do córrego (COELHO, 2004; STUMPF & RIBEIRO, 2019).
 
-![Mapa de localização da Gruta](mapa_relatório2.png)
+![Mapa de localização da Gruta](mapa_relatório2.jpeg)
 
 ![Mapa de localização da Gruta](mapa_relatório_VolksClub2.png)
 
