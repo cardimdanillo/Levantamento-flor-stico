@@ -10,6 +10,8 @@ A Gruta Volks Club se desenvolve em rochas siliclásticas do Grupo Paranoá que 
 O Grupo Paranoá possui subdivisões baseadas em um conjunto de camadas sedimentares. A Gruta Volks Club está inserida na camada denominada Formação Córrego do Sansão (informalmente também chamado de R4) que possui espessura entre 100 e 150 m (STUMPF & RIBEIRO, 2019). Esta formação é distinta pela presença de fáceis metarritimito argiloso (CAMPOS, 2004). Há uma preponderância da fração silte-argila, contudo também ocorrem estratos delgados de quartzitos rosados a avermelhados (STUMPF & RIBEIRO, 2019).
 A Gruta Volks Club é classificada como gruta seca, todavia há um aumento no volume de água que corre no interior da caverna na estação chuvosa. Volume este que contribui na formação do córrego Taboca (COELHO, 2004). O local possui duas entradas separadas por uma distância horizontal de 84 m e um desnível de 11 m (STUMPF & RIBEIRO, 2019). A principal, que possui 6 m de comprimento e 3,5 m de altura, é onde encontra-se o sumidouro, e a segunda entrada, que possui 11 m de comprimento e 1,5 m de altura, é a ressurgência do córrego (COELHO, 2004; STUMPF & RIBEIRO, 2019).
 
+![Mapa de localização da Gruta](mapa_relatório2.png)
+
 ![Mapa de localização da Gruta](mapa_relatório_VolksClub2.png)
 
 
@@ -17,3 +19,8 @@ A Gruta Volks Club é classificada como gruta seca, todavia há um aumento no vo
 Os espécimes coletados foram todos tabulados na plataforma computacional excel (flora_volks_dados.csv) e analisados com auxílio da linguagem de programação Python através do ambiente de desenvolvimento integrado (IDE) Visual Studio Code. Foram organizadas colunas com as informações da família botânica, gênero, epíteto específico, hábito, substrato e origem. As informações sobre hábito, substrato e origem foram obtidas através da plataforma Flora e Funga do Brasil (2023).
 Os dados com as famílias, gênero, hábito e origem foram agrupados para análise da proporção percentual dentro de cada dado. A proporção de famílias e gêneros permitem a comparação com dados de levantamentos florísticos em outras manchas de cerrado. De acordo com número de famílias e gêneros presentes foi inferido a situação da área quando comparado com outros levantamentos. E a composição de famílias e gêneros permitiu inferir se a flora nas proximidades da Gruta Volks Club tem composição florística própria.
 Os dados com os hábitos foram agrupados para análise da proporção entre espécies arbóreas, arbustivas e herbáceas. Esta informação demonstra o cenário da estrutura fitofisionômica do local. A proporção de espécies terrícolas e rupícolas foram calculados para conhecimento da preferência de substrato da comunidade vegetal.
+
+## Resultados
+O gráfico abaixo mostra o resultado da proporção de espécies por famílias botânicas encontradas na área.
+
+![Relação da proporção de espécies por família](prop_familias.png)
